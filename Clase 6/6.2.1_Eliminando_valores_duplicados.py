@@ -1,12 +1,11 @@
 '''
-Clase:        6.2.1 Eliminando valores duplicados
-Tema:         Manejo de listas
-Ejercicio:    Eliminando valores duplicados
-Descripción:  Usar una lista para eliminar los valores duplicados de una lista de enteros.
-
-Autor:        Emilio Josue Martinez Aguilera
-Fecha:        2025-05-30
-Estado:       [ Terminado ]
+Clase:        Clase 6
+Tema:         Fase de fortalecimiento lógico
+Ejercicio:    6.2.1
+Descripción:  Elimna el número que que se repite en una lista de números enteros.
+Autor:        Emilio Josue Martínez Aguolera
+Fecha:        2025-5-30
+Estado:       [ TERMINADO ]
 '''
 lst = (input())
 lst = [int(x) for x in str(lst).split()]
